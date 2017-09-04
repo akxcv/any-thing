@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["umbrellio", "umbrellio/flow"],
+  "rules": {
+    "quotes": ["error", "single"]
+  }
+}
